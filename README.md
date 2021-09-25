@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomassimko&label=Profile%20views&color=0e75b6&style=flat" alt="thomassimko" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomassimko" alt="thomassimko" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://thomassimko.com](https://thomassimko.com)
 
 - 📫 How to reach me **tjsimko@gmail.com**
